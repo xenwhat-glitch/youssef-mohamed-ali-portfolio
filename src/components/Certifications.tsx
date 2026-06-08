@@ -45,9 +45,18 @@ export function Certifications() {
                 {/* Upper card block section */}
                 <div className="space-y-4">
                   <div className="flex items-start justify-between">
-                    <div className={`p-2.5 rounded-xl ${topIconBg} shadow-xs`}>
+                    {/* <div className={`p-2.5 rounded-xl ${topIconBg} shadow-xs`}>
                       <Award className="w-5 h-5" />
+                    </div> */}
+
+                    <div className="w-12 h-12 rounded-xl bg-white border border-slate-200 flex items-center justify-center overflow-hidden shadow-xs">
+                      <img
+                        src={cert.logo}
+                        alt={`${cert.issuer} logo`}
+                        className="w-9 h-9 object-contain"
+                      />
                     </div>
+
                     <span className="text-[10px] font-mono text-slate-400 font-semibold uppercase flex items-center gap-1">
                       <Calendar className="w-3 h-3" />
                       Class of {cert.date}

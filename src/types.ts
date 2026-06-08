@@ -38,6 +38,7 @@ export interface Certification {
   date: string;
   credentialUrl?: string;
   badgeAccent: string;
+  logo: string;
   skillsAcquired: string[];
 }
 
