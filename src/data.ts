@@ -5,6 +5,46 @@
 
 import { Project, Experience, Certification, SkillCategory, Achievement } from "./types";
 
+// Profile Data (Extracted from Portfolio)
+export const profileData = {
+  name: "Youssef M.",
+  title: ".Net Developer",
+  birthday: "11 December 2001",
+  age: 23,
+  degree: "CS Bachelor's",
+  email: "youssef.mohamed.net.eg@gmail.com",
+  phone: "+20 1067952340",
+  city: "Suez, Egypt",
+  address: "Egypt, Suez, National Unity Street",
+  website: "joegithubpro.github.io/Profile",
+  freelanceStatus: "Available",
+  bio: "I am .Net Developer that specialized at back end of applications whether web application or Desktop or Mobile.",
+  services: [
+    "Web Sites",
+    "Desktop App",
+    "Web App",
+    "C# Features",
+    "Technical support"
+  ],
+  aspirations: [
+    {
+      title: ".Net Core",
+      priority: "High priority",
+      description: ".NET Core is a free, open-source, cross-platform framework for building modern, scalable, and high-performance applications, including web applications, APIs, and microservices."
+    },
+    {
+      title: "Software Architectures",
+      priority: "Medium Priority",
+      description: "I wish to learn more about the back-end side of software architecture, especially about monolithic architecture, microservices architecture and serverless architecture."
+    },
+    {
+      title: "Angular Framework",
+      priority: "Less priority",
+      description: "Angular is a front-end framework for building dynamic web applications using TypeScript. Learning Angular can be beneficial for backend developers due to its large community, scalability, and adherence to consistent best practices."
+    }
+  ]
+};
+
 export const projectsData: Project[] = [
   {
     id: "cdms-custody",
@@ -303,10 +343,13 @@ export const skillsData: SkillCategory[] = [
     description: "Core programming and syntax engines",
     iconName: "Code2",
     skills: [
-      { name: "C#", level: 95, info: "Async/Await, Linq, Reflection, Memory optimization, .NET 10" },
+      { name: "C#", level: 98, info: "Async/Await, Linq, Reflection, Memory optimization, .NET 10" },
       { name: "SQL", level: 90, info: "Oracle SQL, T-SQL, Stored Procedures, Explain Plans, Indexing" },
-      { name: "C++", level: 80, info: "Pointers, OOP fundamentals, memory allocation, algorithms" },
-      { name: "HTML5 & CSS3", level: 85, info: "Flexbox, Grid, Custom Properties, Responsive Styling" }
+      { name: "C++", level: 70, info: "Pointers, OOP fundamentals, memory allocation, algorithms" },
+      { name: "HTML5", level: 75, info: "Semantic markup, Flexbox, Grid, Custom Properties, Responsive Styling" },
+      { name: "CSS3", level: 40, info: "Flexbox, Grid, Custom Properties, Responsive Styling" },
+      { name: "JavaScript", level: 30, info: "DOM manipulation, ES6+, async programming" },
+      { name: "JAVA", level: 55, info: "OOP principles, basic syntax, data structures" }
     ]
   },
   {
