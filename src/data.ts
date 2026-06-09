@@ -559,7 +559,7 @@ export const certificationsData: Certification[] = [
     date: "2025",
     credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/IMG_20230530_233757.pdf",
     badgeAccent: "indigo",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/iti.png",
     skillsAcquired: [
       "Enterprise .NET Arch",
       "Advanced C#",
@@ -593,7 +593,7 @@ export const certificationsData: Certification[] = [
     date: "2024",
     credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/CS50x.pdf",
     badgeAccent: "rose",
-    logo: "./assets/logos/iti.png",
+    logo: "./assets/logos/HarvardUniversity.png",
     skillsAcquired: [
       "Algorithms & Data Structures",
       "C Programming",
@@ -610,7 +610,7 @@ export const certificationsData: Certification[] = [
     date: "2024",
     credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/Attendance_Certificate.pdf",
     badgeAccent: "amber",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/AWS.png",
     skillsAcquired: [
       "Amazon EC2 & Elastic Beanstalk",
       "AWS RDS & DynamoDB",
@@ -627,7 +627,7 @@ export const certificationsData: Certification[] = [
     date: "2023",
     credentialUrl: "https://drive.google.com/file/d/117sFdqBuwOLkPuaHRAsoQ-LlX7dJT3UU/view?usp=sharing",
     badgeAccent: "green",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/BanqueMisr.png",
     skillsAcquired: [
       "Banking Systems Overview",
       "Professional Work Environment",
@@ -640,7 +640,7 @@ export const certificationsData: Certification[] = [
     issuer: "IBM (SkillsBuild)",
     date: "2023",
     badgeAccent: "blue",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/IBM.png",
     skillsAcquired: ["Professional Communication", "Workplace Readiness", "Career Development"]
   },
   {
@@ -649,7 +649,7 @@ export const certificationsData: Certification[] = [
     issuer: "IBM (SkillsBuild)",
     date: "2023",
     badgeAccent: "cyan",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/IBM.png",
     skillsAcquired: ["AI & Machine Learning Overview", "Cloud Computing", "Blockchain Basics", "IoT Fundamentals"]
   },
   {
@@ -658,7 +658,7 @@ export const certificationsData: Certification[] = [
     issuer: "IBM (SkillsBuild)",
     date: "2023",
     badgeAccent: "teal",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/IBM.png",
     skillsAcquired: ["Design Thinking Framework", "Problem Decomposition", "User-Centric Ideation"]
   },
   {
@@ -667,7 +667,7 @@ export const certificationsData: Certification[] = [
     issuer: "IBM (SkillsBuild)",
     date: "2023",
     badgeAccent: "orange",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/IBM.png",
     skillsAcquired: ["Business Model Canvas", "Startup Fundamentals", "Market Validation"]
   },
   {
@@ -676,7 +676,7 @@ export const certificationsData: Certification[] = [
     issuer: "Google Skills",
     date: "2023",
     badgeAccent: "yellow",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/Google.png",
     skillsAcquired: ["SEO & SEM Basics", "Social Media Marketing", "Online Advertising"]
   },
   {
@@ -686,7 +686,7 @@ export const certificationsData: Certification[] = [
     date: "2022",
     credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/certificate.pdf",
     badgeAccent: "purple",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/",
     skillsAcquired: ["C# Language Fundamentals", "OOP in C#", ".NET 6 Basics", "Console & WinForms Apps"]
   },
   {
@@ -695,7 +695,7 @@ export const certificationsData: Certification[] = [
     issuer: "ICDL Foundation",
     date: "2022",
     badgeAccent: "slate",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/",
     skillsAcquired: ["Computer Essentials", "Office Suite (Word, Excel, PowerPoint)", "Online Collaboration"]
   },
   {
@@ -705,7 +705,7 @@ export const certificationsData: Certification[] = [
     date: "2023",
     credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/certificate hp.pdf",
     badgeAccent: "sky",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/HP.png",
     skillsAcquired: ["Leadership Principles", "Team Management", "Decision Making"]
   },
   {
@@ -714,7 +714,7 @@ export const certificationsData: Certification[] = [
     issuer: "Upwork",
     date: "2023",
     badgeAccent: "lime",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/iti.png",
     skillsAcquired: ["Freelance Platform Strategy", "Client Communication", "Proposal Writing"]
   },
   {
@@ -723,7 +723,7 @@ export const certificationsData: Certification[] = [
     issuer: "Online Training Platform",
     date: "2023",
     badgeAccent: "emerald",
-    logo: "/assets/logos/iti.png",
+    logo: "./assets/logos/iti.png",
     skillsAcquired: ["Freelance Business Setup", "Pricing & Contracts", "Time Management"]
   }
 ];
