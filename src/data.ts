@@ -21,7 +21,7 @@ export const personalInfo = {
   freelance: "Available",
   degree: "Bachelor of Computer Science",
   university: "Suez Canal University, Ismailia",
-  cvUrl: "https://joegithubpro.github.io/Profile/assets/files/Youssef Mohamed-Backend (.NET).pdf",
+  cvUrl: "./assets/files/Youssef Mohamed-Backend (.NET).pdf",
   socials: {
     github: "https://github.com/JoeGitHubPro",
     linkedin: "https://www.linkedin.com/in/youssef-mohamed-ali",
@@ -557,7 +557,7 @@ export const certificationsData: Certification[] = [
     title: ".NET Web Development",
     issuer: "Information Technology Institute (ITI)",
     date: "2025",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/IMG_20230530_233757.pdf",
+    credentialUrl: "./assets/files/IMG_20230530_233757.pdf",
     badgeAccent: "indigo",
     logo: "./assets/logos/iti.png",
     skillsAcquired: [
@@ -577,7 +577,7 @@ export const certificationsData: Certification[] = [
     title: "ITI 101 Program",
     issuer: "Information Technology Institute (ITI)",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/IMG_20230530_233821.pdf",
+    credentialUrl: "./assets/files/IMG_20230530_233821.pdf",
     badgeAccent: "violet",
     logo: "./assets/logos/iti.png",
     skillsAcquired: [
@@ -591,7 +591,7 @@ export const certificationsData: Certification[] = [
     title: "CS50x: Introduction to Computer Science",
     issuer: "Harvard University / edX",
     date: "2024",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/CS50x.pdf",
+    credentialUrl: "./assets/files/CS50x.pdf",
     badgeAccent: "rose",
     logo: "./assets/logos/HarvardUniversity.png",
     skillsAcquired: [
@@ -608,7 +608,7 @@ export const certificationsData: Certification[] = [
     title: "AWS Cloud Practitioner Essentials",
     issuer: "Amazon Web Services",
     date: "2024",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/AWS Cloud Practitioner Essentials.pdf",
+    credentialUrl: "./assets/files/AWS Cloud Practitioner Essentials.pdf",
     badgeAccent: "amber",
     logo: "./assets/logos/AWS.png",
     skillsAcquired: [
@@ -639,7 +639,7 @@ export const certificationsData: Certification[] = [
     title: "Introduction to Professional Skills",
     issuer: "IBM (SkillsBuild)",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/SkillsBuild%20for%20Students.pdf",
+    credentialUrl: "./assets/files/SkillsBuild%20for%20Students.pdf",
     badgeAccent: "blue",
     logo: "./assets/logos/IBM.png",
     skillsAcquired: ["Professional Communication", "Workplace Readiness", "Career Development"]
@@ -649,7 +649,7 @@ export const certificationsData: Certification[] = [
     title: "Introduction to Emerging Technologies",
     issuer: "IBM (SkillsBuild)",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/SkillsBuild%20for%20Students.pdf%201.pdf",
+    credentialUrl: "./assets/files/SkillsBuild%20for%20Students.pdf%201.pdf",
     badgeAccent: "cyan",
     logo: "./assets/logos/IBM.png",
     skillsAcquired: ["AI & Machine Learning Overview", "Cloud Computing", "Blockchain Basics", "IoT Fundamentals"]
@@ -659,7 +659,7 @@ export const certificationsData: Certification[] = [
     title: "Introduction to Problem Solving – Design Thinking",
     issuer: "IBM (SkillsBuild)",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/SkillsBuild%20for%20Students.pdf%202.pdf",
+    credentialUrl: "./assets/files/SkillsBuild%20for%20Students.pdf%202.pdf",
     badgeAccent: "teal",
     logo: "./assets/logos/IBM.png",
     skillsAcquired: ["Design Thinking Framework", "Problem Decomposition", "User-Centric Ideation"]
@@ -669,7 +669,7 @@ export const certificationsData: Certification[] = [
     title: "Business Entrepreneurship",
     issuer: "IBM (SkillsBuild)",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/SkillsBuild%20for%20Students.pdf%203.pdf",
+    credentialUrl: "./assets/files/SkillsBuild%20for%20Students.pdf%203.pdf",
     badgeAccent: "orange",
     logo: "./assets/logos/IBM.png",
     skillsAcquired: ["Business Model Canvas", "Startup Fundamentals", "Market Validation"]
@@ -679,7 +679,7 @@ export const certificationsData: Certification[] = [
     title: "Basics of Digital Marketing",
     issuer: "Google Skills",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%B9.pdf",
+    credentialUrl: "./assets/files/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%B9.pdf",
     badgeAccent: "yellow",
     logo: "./assets/logos/Google.png",
     skillsAcquired: ["SEO & SEM Basics", "Social Media Marketing", "Online Advertising"]
@@ -689,7 +689,7 @@ export const certificationsData: Certification[] = [
     title: "C#.NET v6",
     issuer: "CourseSet",
     date: "2022",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/certificate.pdf",
+    credentialUrl: "./assets/files/certificate.pdf",
     badgeAccent: "purple",
     logo: "./assets/logos/CourseSet.png",
     skillsAcquired: ["C# Language Fundamentals", "OOP in C#", ".NET 6 Basics", "Console & WinForms Apps"]
@@ -699,7 +699,7 @@ export const certificationsData: Certification[] = [
     title: "International Computer Driving License (ICDL) Base",
     issuer: "ICDL Foundation",
     date: "2022",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/download.pdf",
+    credentialUrl: "./assets/files/download.pdf",
     badgeAccent: "slate",
     logo: "./assets/logos/edraak.png",
     skillsAcquired: ["Computer Essentials", "Office Suite (Word, Excel, PowerPoint)", "Online Collaboration"]
@@ -709,7 +709,7 @@ export const certificationsData: Certification[] = [
     title: "Effective Leadership",
     issuer: "HP",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/certificate hp.pdf",
+    credentialUrl: "./assets/files/certificate hp.pdf",
     badgeAccent: "sky",
     logo: "./assets/logos/HP.png",
     skillsAcquired: ["Leadership Principles", "Team Management", "Decision Making"]
@@ -719,7 +719,7 @@ export const certificationsData: Certification[] = [
   title: "Entrepreneurship",
   issuer: "Tatweer",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/5815-%D9%85%D8%AD%D9%88%D9%84.pdf",
+  credentialUrl: "./assets/files/5815-%D9%85%D8%AD%D9%88%D9%84.pdf",
   badgeAccent: "green",
   logo: "./assets/logos/Tatweer.png",
   skillsAcquired: ["Entrepreneurship", "Business Models", "Innovation"]
@@ -730,7 +730,7 @@ export const certificationsData: Certification[] = [
   title: "Career Development Skills",
   issuer: "AUS",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/3181407.pdf",
+  credentialUrl: "./assets/files/3181407.pdf",
   badgeAccent: "cyan",
   logo: "./assets/logos/AUS.png",
   skillsAcquired: ["Career Planning", "Interview Skills", "Professional Growth"]
@@ -741,7 +741,7 @@ export const certificationsData: Certification[] = [
   title: "Personal Skills",
   issuer: "AUS",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/7221300.pdf",
+  credentialUrl: "./assets/files/7221300.pdf",
   badgeAccent: "teal",
   logo: "./assets/logos/AUS.png",
   skillsAcquired: ["Communication", "Time Management", "Self Development"]
@@ -752,7 +752,7 @@ export const certificationsData: Certification[] = [
   title: "Entrepreneurship",
   issuer: "AUS",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/8389610.pdf",
+  credentialUrl: "./assets/files/8389610.pdf",
   badgeAccent: "lime",
   logo: "./assets/logos/AUS.png",
   skillsAcquired: ["Business Strategy", "Innovation", "Leadership"]
@@ -762,7 +762,7 @@ export const certificationsData: Certification[] = [
   title: "CloudSim",
   issuer: "CloudSim",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/%D9%8A%D9%88%D8%B3%D9%81_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_cloud2_certificate.pdf",
+  credentialUrl: "./assets/files/%D9%8A%D9%88%D8%B3%D9%81_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_cloud2_certificate.pdf",
   badgeAccent: "slate",
   logo: "./assets/logos/rwak.png",
   skillsAcquired: ["Cloud Simulation", "Resource Management", "Cloud Architecture"]
@@ -772,7 +772,7 @@ export const certificationsData: Certification[] = [
   title: "Getting Started as a Freelancer",
   issuer: "Khamsat",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/mlang_enCourse_Certificate_Enmlangmlang_ar___mlang%20(1).pdf",
+  credentialUrl: "./assets/files/mlang_enCourse_Certificate_Enmlangmlang_ar___mlang%20(1).pdf",
   badgeAccent: "emerald",
   logo: "./assets/logos/iti.png",
   skillsAcquired: ["Freelancing", "Client Communication", "Digital Services"]
@@ -782,7 +782,7 @@ export const certificationsData: Certification[] = [
   title: "Getting Started as a Freelancer",
   issuer: "Mostaql",
   date: "2021",
-  credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/mlang_enCourse_Certificate_Enmlangmlang_ar___mlang.pdf",
+  credentialUrl: "./assets/files/mlang_enCourse_Certificate_Enmlangmlang_ar___mlang.pdf",
   badgeAccent: "orange",
   logo: "./assets/logos/iti.png",
   skillsAcquired: ["Project Bidding", "Freelancing", "Remote Collaboration"]
@@ -793,7 +793,7 @@ export const certificationsData: Certification[] = [
     title: "Getting Started as a Freelancer (Upwork)",
     issuer: "Upwork",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/Attendance_Certificate.pdf",
+    credentialUrl: "./assets/files/Attendance_Certificate.pdf",
     badgeAccent: "lime",
     logo: "./assets/logos/iti.png",
     skillsAcquired: ["Freelance Platform Strategy", "Client Communication", "Proposal Writing"]
@@ -803,7 +803,7 @@ export const certificationsData: Certification[] = [
     title: "Freelancing Basics",
     issuer: "Online Training Platform",
     date: "2023",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/Attendance_Certificate%20(1).pdf",
+    credentialUrl: "./assets/files/Attendance_Certificate%20(1).pdf",
     badgeAccent: "emerald",
     logo: "./assets/logos/iti.png",
     skillsAcquired: ["Freelance Business Setup", "Pricing & Contracts", "Time Management"]
