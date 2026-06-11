@@ -608,7 +608,7 @@ export const certificationsData: Certification[] = [
     title: "AWS Cloud Practitioner Essentials",
     issuer: "Amazon Web Services",
     date: "2024",
-    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/Attendance_Certificate.pdf",
+    credentialUrl: "https://joegithubpro.github.io/Profile/assets/files/AWS Cloud Practitioner Essentials.pdf",
     badgeAccent: "amber",
     logo: "./assets/logos/AWS.png",
     skillsAcquired: [
